@@ -1,2 +1,2 @@
-# Spotify-Clone
+demo-Clone
 HTML,CSS and  JS Project
